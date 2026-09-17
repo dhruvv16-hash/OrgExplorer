@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Fully Browser-Based** — Runs entirely in the browser with GitHub's REST API. No backend server required.
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Frontend**: React 18 · TypeScript · TailwindCSS · Vite  
 **Visualizations**: D3.js · Recharts  
@@ -57,7 +57,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 flowchart TD
@@ -222,7 +222,7 @@ User → Frontend → API → GitHub APIs → Processing Layer → Database → 
 
 ---
 
-## 🔄 User Flow
+##  User Flow
 
 ```
 User enters organization name
@@ -260,7 +260,7 @@ For detailed setup instructions, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from developers, designers, and open-source enthusiasts. See [CONTRIBUTING.md](./CONTRIBUTING.md) for:
 - How to report bugs and suggest features
@@ -270,16 +270,16 @@ We welcome contributions from developers, designers, and open-source enthusiasts
 
 
 
-## 📍 License
+##  License
 
 Licensed under the **GNU General Public License v3.0**. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - AOSSIE Community
 - GitHub API Documentation
 - React, Vite, and D3.js communities
 
-© 2026 AOSSIE. All rights reserved.
+ 2026 AOSSIE. All rights reserved.
